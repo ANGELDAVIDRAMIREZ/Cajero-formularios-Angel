@@ -38,6 +38,8 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.guardar = new System.Windows.Forms.Button();
+            this.cancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -127,11 +129,32 @@
             this.textBox4.Size = new System.Drawing.Size(180, 22);
             this.textBox4.TabIndex = 9;
             // 
+            // guardar
+            // 
+            this.guardar.Location = new System.Drawing.Point(154, 318);
+            this.guardar.Name = "guardar";
+            this.guardar.Size = new System.Drawing.Size(143, 49);
+            this.guardar.TabIndex = 10;
+            this.guardar.Text = "guardar";
+            this.guardar.UseVisualStyleBackColor = true;
+            // 
+            // cancelar
+            // 
+            this.cancelar.Location = new System.Drawing.Point(418, 318);
+            this.cancelar.Name = "cancelar";
+            this.cancelar.Size = new System.Drawing.Size(156, 49);
+            this.cancelar.TabIndex = 11;
+            this.cancelar.Text = "cancelar";
+            this.cancelar.UseVisualStyleBackColor = true;
+            this.cancelar.Click += new System.EventHandler(this.cancelar_Click);
+            // 
             // registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cancelar);
+            this.Controls.Add(this.guardar);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
@@ -161,5 +184,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button guardar;
+        private System.Windows.Forms.Button cancelar;
     }
 }

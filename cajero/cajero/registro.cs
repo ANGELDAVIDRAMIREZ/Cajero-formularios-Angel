@@ -21,5 +21,13 @@ namespace cajero
         {
 
         }
+
+        private void cancelar_Click(object sender, EventArgs e)
+        {
+            Form1 cancelar = new Form1();
+            cancelar.Show();
+            this.Hide();
+
+        }
     }
 }
