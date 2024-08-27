@@ -40,6 +40,8 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.guardar = new System.Windows.Forms.Button();
             this.cancelar = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -128,19 +130,20 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(180, 22);
             this.textBox4.TabIndex = 9;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // guardar
             // 
-            this.guardar.Location = new System.Drawing.Point(154, 318);
+            this.guardar.Location = new System.Drawing.Point(598, 71);
             this.guardar.Name = "guardar";
-            this.guardar.Size = new System.Drawing.Size(143, 49);
+            this.guardar.Size = new System.Drawing.Size(156, 49);
             this.guardar.TabIndex = 10;
             this.guardar.Text = "guardar";
             this.guardar.UseVisualStyleBackColor = true;
             // 
             // cancelar
             // 
-            this.cancelar.Location = new System.Drawing.Point(418, 318);
+            this.cancelar.Location = new System.Drawing.Point(598, 181);
             this.cancelar.Name = "cancelar";
             this.cancelar.Size = new System.Drawing.Size(156, 49);
             this.cancelar.TabIndex = 11;
@@ -148,11 +151,30 @@
             this.cancelar.UseVisualStyleBackColor = true;
             this.cancelar.Click += new System.EventHandler(this.cancelar_Click);
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(154, 314);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(80, 16);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "Digite Clave";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(286, 308);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(180, 22);
+            this.textBox5.TabIndex = 13;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
+            // 
             // registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.cancelar);
             this.Controls.Add(this.guardar);
             this.Controls.Add(this.textBox4);
@@ -167,6 +189,7 @@
             this.Controls.Add(this.label1);
             this.Name = "registro";
             this.Text = "registro";
+            this.Load += new System.EventHandler(this.registro_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -186,5 +209,7 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Button guardar;
         private System.Windows.Forms.Button cancelar;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox5;
     }
 }
