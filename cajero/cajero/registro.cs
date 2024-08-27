@@ -10,18 +10,16 @@ using System.Windows.Forms;
 
 namespace cajero
 {
-    public partial class Form1 : Form
+    public partial class registro : Form
     {
-        public Form1()
+        public registro()
         {
             InitializeComponent();
         }
 
-        private void Btn_Register_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            registro Register = new registro();
-            Register.Show();
-            this.Hide();
+
         }
     }
 }
