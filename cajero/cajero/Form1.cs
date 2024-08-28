@@ -17,9 +17,11 @@ namespace cajero
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Btn_Register_Click(object sender, EventArgs e)
         {
-
+            registro Register = new registro();
+            Register.Show();
+            this.Hide();
         }
     }
 }

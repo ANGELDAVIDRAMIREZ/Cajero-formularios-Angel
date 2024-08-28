@@ -1,0 +1,11 @@
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\bin\Debug\cajero.exe.config
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\bin\Debug\cajero.exe
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\bin\Debug\cajero.pdb
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.Form1.resources
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.Properties.Resources.resources
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.csproj.GenerateResource.cache
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.exe
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.pdb
+C:\Users\ANGELR\source\repos\Cajero-formularios-Angel\cajero\cajero\obj\Debug\cajero.registro.resources
