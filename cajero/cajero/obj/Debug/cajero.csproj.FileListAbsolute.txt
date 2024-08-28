@@ -21,3 +21,15 @@ C:\Users\ANGELR\Desktop\cajero-formularios 1.2\cajero\cajero\obj\Debug\cajero.cs
 C:\Users\ANGELR\Desktop\cajero-formularios 1.2\cajero\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
 C:\Users\ANGELR\Desktop\cajero-formularios 1.2\cajero\cajero\obj\Debug\cajero.exe
 C:\Users\ANGELR\Desktop\cajero-formularios 1.2\cajero\cajero\obj\Debug\cajero.pdb
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\bin\Debug\cajero.exe.config
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\bin\Debug\cajero.exe
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\bin\Debug\cajero.pdb
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.Form1.resources
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.inicio_sesion.resources
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.Properties.Resources.resources
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.registro.resources
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.csproj.GenerateResource.cache
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.exe
+C:\Users\ANGELR\Desktop\cajero-formulario1.3\cajero\cajero\obj\Debug\cajero.pdb
